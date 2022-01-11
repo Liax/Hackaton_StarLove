@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Hackaton project - Made under 20hours by a super team of 5 super people
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
