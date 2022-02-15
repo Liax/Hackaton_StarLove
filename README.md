@@ -1,4 +1,6 @@
 # Hackaton project - Made under 20hours by a super team of 5 super people
+Are you ready to meet the love of your intergalactic life ?
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
